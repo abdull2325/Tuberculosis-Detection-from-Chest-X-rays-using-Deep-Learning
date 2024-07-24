@@ -4,6 +4,7 @@
 
 This project implements a deep learning model to detect tuberculosis (TB) from chest X-ray images. It uses a Convolutional Neural Network (CNN) trained on a dataset of chest X-rays, including both normal and TB-positive cases, along with their corresponding lung masks and clinical readings.
 
+to get the dataset:https://drive.google.com/drive/folders/11KVcT4zAQNI6DlqjltRMktfMm6qfjkcX?usp=drive_link
 ## Features
 
 - Data preprocessing and loading from multiple directories
